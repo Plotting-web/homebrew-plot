@@ -12,5 +12,6 @@ brew install plotdbconn
 ### Usage
 
 ```sh
-plotdbconn <aws-profile>
+plotdbconn
+plotdbconn --profile <aws-profile>
 ```
